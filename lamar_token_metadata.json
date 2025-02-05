@@ -2,7 +2,7 @@
   "name": "Lamar Token",
   "symbol": "LAMAR",
   "uri": "https://raw.githubusercontent.com/BillyGoat24/lamar_token_metadata/main/lamar_token_metadata.json",
-  "image": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME/main/images/lamar_token_image.png",
+  "image": "https://github.com/BillyGoat24/lamar-token-metadata/blob/main/DALL%C2%B7E%202025-02-05%2011.17.46%20-%20A%20digital%20illustration%20of%20a%20male%20figure%20resembling%20Kendrick%20Lamar%2C%20but%20not%20directly%20resembling%20him%2C%20designed%20to%20represent%20the%20Lamar%20Token%20community.%20T.webp",
   "decimals": 9,
   "description": "Lamar Token is a charitable meme coin built on Solana. It aims to raise funds for helping communities in need, while bringing excitement to crypto enthusiasts with its unique connection to the NFL halftime show."
 }
